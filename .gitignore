@@ -222,3 +222,5 @@ gradle-app.setting
 
 # End of https://www.toptal.com/developers/gitignore/api/java,gradle,intellij+all,windows,macos,visualstudiocode
 /.gradle/
+
+/.gradle/7.6
