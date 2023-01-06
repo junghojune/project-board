@@ -84,5 +84,4 @@ class ArticleServiceTest {
         // Then
         then(articleRepository).should().delete(any(Article.class));
     }
-
 }
