@@ -1,6 +1,6 @@
 package com.hosu.projectboard.controller;
 
-import com.hosu.projectboard.domain.type.SearchType;
+import com.hosu.projectboard.domain.constant.SearchType;
 import com.hosu.projectboard.response.ArticleResponse;
 import com.hosu.projectboard.response.ArticleWithCommentsResponse;
 import com.hosu.projectboard.service.ArticleService;

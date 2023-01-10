@@ -1,4 +1,4 @@
-package com.hosu.projectboard.domain.type;
+package com.hosu.projectboard.domain.constant;
 
 import lombok.Getter;
 
