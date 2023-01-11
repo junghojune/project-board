@@ -1,11 +1,11 @@
 insert into user_account (user_id, user_password, nickname, email, memo, created_at, created_by, modified_at,
                           modified_by)
-values ('hosu', 'asdf1234', 'hosu', 'uno@mail.com', 'I am Uno.', now(), 'hosu', now(), 'hosu')
+values ('hosu', '{noop}asdf1234', 'hosu', 'uno@mail.com', 'I am Uno.', now(), 'hosu', now(), 'hosu')
 ;
 insert into user_account (user_id, user_password, nickname, email, memo, created_at, created_by, modified_at,
                           modified_by)
 values ('hosu2'
-, 'asdf1234', 'hosu2'
+, '{noop}asdf1234', 'hosu2'
 , 'uno2@mail.com', 'I am Uno2.', now(), 'hosu2'
 , now(), 'hosu2'
 )
