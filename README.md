@@ -35,5 +35,6 @@ Spring Boot
 ## 데모페이지
 
 * https://project-board-hosu.herokuapp.com/
+* 비용 문제로 인해 닫음
 
 
