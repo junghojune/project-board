@@ -69,7 +69,7 @@ clean {
 }
 
 jar {
-    mainfest {
+    manifest {
         attributes('Main-Class': 'com.hosu.projectboard.ProjectBoardApplication')
     }
 }
