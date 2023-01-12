@@ -67,3 +67,9 @@ sourceSets {
 clean {
     delete file(generated)
 }
+
+jar {
+    mainfest {
+        attributes('Main-Class': 'com.hosu.projectboard.ProjectBoardApplication')
+    }
+}
